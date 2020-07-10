@@ -10,22 +10,42 @@
 
 ### :wrench:
 
-<img alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/javascript.svg">
+<span>
+  <img alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/javascript.svg">
+</span>
 
-<img alt="Typescript" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/typescript.svg">
+<span>
+  <img alt="Typescript" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/typescript.svg">
+</span>
 
-<img alt="CSharp" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/csharp.svg">
+<span>
+  <img alt="CSharp" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/csharp.svg">
+</span>
 
-<img alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/node-dot-js.svg">
+<span>
+  <img alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/node-dot-js.svg">
+</span>
 
-<img alt="DotNet" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/dot-net.svg">
+<span>
+  <img alt="DotNet" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/dot-net.svg">
+</span>
 
-<img alt="NativeScript" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/nativescript.svg">
+<span>
+  <img alt="NativeScript" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/nativescript.svg">
+</span>
 
-<img alt="Angular" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/angular.svg">
+<span>
+  <img alt="Angular" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/angular.svg">
+</span>
 
-<img alt="GraphQL" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/graphql.svg">
+<span>
+  <img alt="GraphQL" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/graphql.svg">
+</span>
 
-<img alt="Apollo GraphQL" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/apollographql.svg">
+<span>
+  <img alt="Apollo GraphQL" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/apollographql.svg">
+</span>
 
-<img alt="Unity" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/unity.svg">
+<span>
+  <img alt="Unity" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/unity.svg">
+</span>
