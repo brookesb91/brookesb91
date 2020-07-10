@@ -1,3 +1,5 @@
+### :link:
+
 <a href="https://codepen.io/brookesb91" title="Codepen">
   <img alt="Codepen" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/codepen.svg">
 </a>
@@ -6,7 +8,7 @@
   <img alt="Codepen" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/dev-dot-to.svg">
 </a>
 
-## Working With...
+### :wrench:
 
 <img alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/javascript.svg">
 
@@ -15,6 +17,8 @@
 <img alt="CSharp" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/csharp.svg">
 
 <img alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/node-dot-js.svg">
+
+<img alt="DotNet" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/dot-net.svg">
 
 <img alt="NativeScript" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/nativescript.svg">
 
