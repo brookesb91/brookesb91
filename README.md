@@ -1,4 +1,4 @@
-### :link:
+:link:
 
 <a href="https://codepen.io/brookesb91" title="Codepen">
   <img alt="Codepen" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/codepen.svg">
@@ -8,7 +8,7 @@
   <img alt="Codepen" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/dev-dot-to.svg">
 </a>
 
-### :wrench:
+:wrench:
 
 <span>
   <img alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/javascript.svg">
