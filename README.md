@@ -53,3 +53,8 @@
     <img alt="Unity"  width="30px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/unity.svg">
   </span>
 </p>
+<br/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brookesb91&bg_color=001021&text_color=ffffff&title_color=10c15c"/>
+</p>
+
