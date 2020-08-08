@@ -12,6 +12,10 @@
   <span>
     <img src="https://pixel8d-api.herokuapp.com/svg/typescript-dc52Lewj?size=2" />
   </span>
+  
+  <span>
+    <img src="https://pixel8d-api.herokuapp.com/svg/csharp-4aaEaeet?size=2" />
+  </span>
 </p>
 <br />
 <br />
