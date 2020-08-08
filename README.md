@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="pixelbeard.co" title="PixelBeard">
+    <img src="https://pixel8d-api.herokuapp.com/svg/pixelbeard" />
+  </a>
+</p>
+
 <h4 align="center">Find Me On..</h4>
 <p align="center">
   <a href="https://codepen.io/brookesb91" title="Codepen">
