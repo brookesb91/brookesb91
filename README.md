@@ -21,12 +21,12 @@
 <br />
 <h4 align="center">Find Me On..</h4>
 <p align="center">
-  <a href="https://codepen.io/brookesb91" title="Codepen">
+<!--   <a href="https://codepen.io/brookesb91" title="Codepen">
     <img alt="Codepen" width="30px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/codepen.svg">
-  </a>
+  </a> -->
 
   <a href="https://dev.to/brookesb91" title="Dev.to">
-    <img alt="Codepen" width="30px" src="https://raw.githubusercontent.com/brookesb91/brookesb91/master/images/dev-dot-to.svg">
+    <img src="https://pixel8d-api.herokuapp.com/svg/devto-7PpaGeQl?size=2" />
   </a>
 </p>
 
