@@ -1,6 +1,6 @@
 <p align="center">
   <a href="pixelbeard.co" title="PixelBeard">
-    <img src="https://pixel8d-api.herokuapp.com/svg/pixelbeard" />
+    <img src="https://pixel8d-api.herokuapp.com/svg/pixelbeard?size=5" />
   </a>
 </p>
 <p align="center">
