@@ -11,4 +11,4 @@
 </p>
 <p align="center"><img src="https://pixel8d-api.herokuapp.com/svg/link?size=5" /> </p>
 
-<img src="https://vellum-app.herokuapp.com/embed/image" refererpolicy="unsafe-url" />
+<img src="https://vellum-app.herokuapp.com/embed/image" referrerpolicy="unsafe-url" />
