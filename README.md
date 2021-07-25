@@ -1,11 +1,23 @@
 ### Working With
 
-<img src="images/angular.svg" height="52"/>
-<img src="images/flutter.svg" height="52"/>
-<img src="images/dot-net.svg" height="52"/>
-<img src="images/node-dot-js.svg" height="52"/>
-<img src="images/graphql.svg" height="52"/>
-<img src="images/unity.svg" height="52"/>
+<span>
+  <img src="images/angular.svg" height="52"/>
+</span>
+<span>
+  <img src="images/flutter.svg" height="52"/>
+</span>
+<span>
+  <img src="images/dot-net.svg" height="52"/>
+</span>
+<span>
+  <img src="images/node-dot-js.svg" height="52"/>
+</span>
+<span>
+  <img src="images/graphql.svg" height="52"/>
+</span>
+<span>
+  <img src="images/unity.svg" height="52"/>
+</span>
 
 <br/>
 
