@@ -1,3 +1,15 @@
+<p align="center">
+  <a title="Codepen" href="https://codepen.io/brookesb91">
+    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>
+  </a>
+  <a title="Dev.to" href="https://dev.to/brookesb91">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/2691191" title="Stack Overflow">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+</p>
+
 <h2 align="center">Languages</h2>
 
 <p align="center">
