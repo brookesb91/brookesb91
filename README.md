@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/badoing.png"/>
+  <img src="images/badoing.PNG"/>
 </p>
 
 <p align="center">
