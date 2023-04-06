@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="images/badoing.png"/>
+</p>
+
+<p align="center">
   <a title="Codepen" href="https://codepen.io/brookesb91">
     <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>
   </a>
