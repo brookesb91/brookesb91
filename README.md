@@ -66,13 +66,3 @@
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
-
-<br/>
-<br/>
-<br/>
-
-<p align="center">
-  <a href="https://pixel8d.herokuapp.com/">
-    <img src="https://pixel8d-api.herokuapp.com/svg/link?size=5" />
-  </a>
-</p>
